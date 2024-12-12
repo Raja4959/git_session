@@ -1,1 +1,5 @@
 second file change
+
+hello
+are you new to git
+no worries I will help
